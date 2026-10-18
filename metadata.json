@@ -1,0 +1,6 @@
+{
+  "name": "FisgAI",
+  "description": "Fisgue clientes que ainda não têm site. Plataforma de prospecção comercial para serviços digitais a empresas locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
